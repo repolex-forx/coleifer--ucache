@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "ucache",
+  "versions": [
+    {
+      "commit": "19a87f84a49597cd03191aa2e56abd62ee8831de",
+      "parsed_at": "2026-10-20T20:43:04.784786+00:00",
+      "tag": "0.2.2",
+      "filetree": "filetree/19a87f84a49597cd03191aa2e56abd62ee8831de.nq.gz",
+      "blobs": [
+        "blob/1189a5cf3f73bfa7778963cd581447490f934c28.nq.gz",
+        "blob/c752ab3ead2e7be324e5cafb5e1d53135c16af13.nq.gz",
+        "blob/961b383ac95c70c0154a7dd2bd12c4975ac47735.nq.gz",
+        "blob/4770af518c0cbbcef3c4f63d64c0c43f6c19742d.nq.gz",
+        "blob/cf08dc60f8c139ec5d5bbf890587c23058d91db8.nq.gz",
+        "blob/31d51d3ae4e5ce407c87671a6f01720258f053fd.nq.gz",
+        "blob/591a6b88d654bed1dc62643a3de3054b46f492cc.nq.gz",
+        "blob/9869b332fee04ab1ddd3ac2c8661f8cf8c955c26.nq.gz",
+        "blob/5f381be62b117bb6b9a9ef53cbbb9c6b0e8fbb5d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
