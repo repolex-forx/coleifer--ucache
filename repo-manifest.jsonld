@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/coleifer/ucache/commit/19a87f84a49597cd03191aa2e56abd62ee8831de",
       "git:hexsha": "19a87f84a49597cd03191aa2e56abd62ee8831de",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.2",
+      "repolex:parsedAt": "2026-10-20T20:45:51.843802+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/ucache/commit/63709851ea13fb9fd94efd605323c01c771137ec",
