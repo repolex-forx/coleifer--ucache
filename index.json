@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "ucache",
+  "versions": [
+    {
+      "commit": "19a87f84a49597cd03191aa2e56abd62ee8831de",
+      "tag": "0.2.2",
+      "parsed_at": "2026-10-20T20:45:51.844316+00:00"
+    }
+  ]
+}
